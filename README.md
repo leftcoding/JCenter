@@ -64,6 +64,7 @@ apply from: 'https://raw.githubusercontent.com/leftcoding/JCenter/master/maven.g
 
 ```java
 ./gradlew clean install
+// ./gradlew :moduleName:clean :moduleName:install
 ```
 
 发布项目
